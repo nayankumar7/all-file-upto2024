@@ -1,0 +1,64 @@
+/* 
+color lag@o khob chamkao
+ */
+h1 {
+    color:rgb(255,50,50) ;
+}
+h2{
+    color:rgb(255,200,25);
+}
+h3{
+    color:rgb(200,25,205);    
+}
+h4{
+    color:rgb(25,200,25);
+}
+h5{
+    color:rgb(25,25,25);
+}
+h6{
+    color:rgb(100,25,00);
+}
+
+p{
+    color:rgb(125,50,25);
+}
+i{
+    color:rgb(150,25,25);
+}
+/* chalo aur color se khelte hai:holi hai- background colour property*/
+h1{
+background-color: rgb(00,100,50);
+}
+h2{
+background-color: rgb(100,00,50);
+}
+h3{
+background-color: rgb(200,200,75);
+}
+h4{
+background-color: rgb(150,50,150);
+}
+h5{
+background-color: rgb(255,125,75);
+}
+h6{
+background-color: rgb(175,170,175);
+}
+p{
+background-color: rgb(00,125,150);
+}
+i{
+background-color: rgb(20,00,75);
+}
+/* hexadecimal color code */
+
+
+
+
+
+
+
+
+
+

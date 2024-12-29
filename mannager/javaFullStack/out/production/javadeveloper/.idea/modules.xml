@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/javadeveloper.iml" filepath="$PROJECT_DIR$/javadeveloper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/leetCodeSolution/leetCodeSolution.iml" filepath="$PROJECT_DIR$/leetCodeSolution/leetCodeSolution.iml" />
+      <module fileurl="file://$PROJECT_DIR$/webDevlopment/webDevlopment.iml" filepath="$PROJECT_DIR$/webDevlopment/webDevlopment.iml" />
+    </modules>
+  </component>
+</project>
